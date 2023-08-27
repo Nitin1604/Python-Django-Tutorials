@@ -19,3 +19,5 @@ startapp
 startproject
 
 Course Starting Date : 26/8/2023 (Saturday) Series 0 and Series 1 Completed 
+Series 0 : Django Course Announcement | Video Length => 4:30  | Completed
+Series 1 : Django Installation & Getting Started | Video Length => 7:30 | Completed
