@@ -1,4 +1,4 @@
-Lecture 1 Discussion in the video
+Lecture 1 Discussion in the video | Django Installation & Getting Started | Python Django Tutorials In Hindi #1
 
 (1) django-admin --version
 
