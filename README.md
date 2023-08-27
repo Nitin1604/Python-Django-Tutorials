@@ -4,3 +4,20 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/5BDgKJFZMl8?si=D9IDylV4KY8QwZPQ) | Django Course Announcement | Python Django Tutorials In Hindi #0
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/HdoPg2e_m9s?si=DnKzx8eVSQTSNPqz) | Django Installation & Getting Started | Python Django Tutorials In Hindi #1
+Lecture 1 Discussion in the video
+(1) django-admin --version 
+    4.2.4
+(2) django-admin 
+    Available subcommands:
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    squashmigrations
+    squashmigrations
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
