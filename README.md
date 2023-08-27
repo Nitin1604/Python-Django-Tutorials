@@ -4,4 +4,7 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/5BDgKJFZMl8?si=D9IDylV4KY8QwZPQ) | Django Course Announcement | Python Django Tutorials In Hindi #0
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/HdoPg2e_m9s?si=DnKzx8eVSQTSNPqz) | Django Installation & Getting Started | Python Django Tutorials In Hindi #1
+________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/weAUmhABjBc?si=ExINgPlMjp2FajuE) | Creating Our First Django Project | Python Django Tutorials In Hindi #2
+________________________________________________________________________________________________________________________________________________
 
