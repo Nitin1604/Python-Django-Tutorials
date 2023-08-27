@@ -1,0 +1,19 @@
+Lecture 1 Discussion in the video
+
+(1) django-admin --version
+
+4.2.4
+(2) django-admin
+
+Available subcommands:
+[django]
+
+check
+compilemessages
+createcachetable
+dbshell
+squashmigrations
+squashmigrations
+squashmigrations
+startapp
+startproject
