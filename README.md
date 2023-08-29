@@ -11,3 +11,4 @@ YouTube Link : (https://youtu.be/wU_8jeZRenE?si=rX-0eGi760K6FA2f) | How Django W
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/FwKJyRQBOQk?si=4txLq5048c_dZFT0) | Our First Django Website | Python Django Tutorials In Hindi #4
 ________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/zs2Ux1jfDD0?si=Ng6phrYyptk3cn9H) | Views & Urls In Django| Python Django Tutorials In Hindi #5
