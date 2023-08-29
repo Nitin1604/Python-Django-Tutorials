@@ -1,0 +1,22 @@
+from django.contrib import admin
+from django.urls import path
+from . import views    # To import views use this line of code
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('',views.index, name='index'),      # To navigate to another page use this line
+    path('about',views.about, name='about')  # For another page navigation use this line
+]
+use this line to run the server --> python manage.py runserver
+Then the server will start at this localhost => http://127.0.0.1:8000/
+When the server was started this line will shown in the console of python interpreter
+Starting development server at http://127.0.0.1:8000/
+
+views.py
+
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Django Course")
+
+def about(request):
+    return HttpResponse("About Django Course")
