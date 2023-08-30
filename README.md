@@ -14,3 +14,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/zs2Ux1jfDD0?si=Ng6phrYyptk3cn9H) | Views & Urls In Django| Python Django Tutorials In Hindi #5
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/AepgWsROO4k?si=ULhf7WJLmBPvfG5C) | Django Exercise 1: Personal Navigator | Python Django Tutorials In Hindi #6
+________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/ES-bdt0KUZg?si=K5k-yYq9L1Rg-BCV) | Django Website: Laying The Pipeline | Python Django Tutorials In Hindi #7
