@@ -16,3 +16,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/AepgWsROO4k?si=ULhf7WJLmBPvfG5C) | Django Exercise 1: Personal Navigator | Python Django Tutorials In Hindi #6
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ES-bdt0KUZg?si=K5k-yYq9L1Rg-BCV) | Django Website: Laying The Pipeline | Python Django Tutorials In Hindi #7
+________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/0dBZZOYIDW0?si=t7N9BNpLHl5RfZI3) | Django Templates | Python Django Tutorials In Hindi #8 
