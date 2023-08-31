@@ -21,3 +21,5 @@ YouTube Link : (https://youtu.be/0dBZZOYIDW0?si=t7N9BNpLHl5RfZI3) | Django Templ
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/dZsv7xt5pT0?si=M_O34uO4JLY5xxSL) | Creating Homepage of our TextUtils Website | Python Django Tutorials In Hindi #9
 _____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/lkhJ7OCOCIc?si=dgvSHwlQvajg6FW5) | Django Site: Coding The Backend | Python Django Tutorials In Hindi #10
+
