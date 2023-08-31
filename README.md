@@ -18,3 +18,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/ES-bdt0KUZg?si=K5k-yYq9L1Rg-BCV) | Django Website: Laying The Pipeline | Python Django Tutorials In Hindi #7
 ________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/0dBZZOYIDW0?si=t7N9BNpLHl5RfZI3) | Django Templates | Python Django Tutorials In Hindi #8 
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/dZsv7xt5pT0?si=M_O34uO4JLY5xxSL) | Creating Homepage of our TextUtils Website | Python Django Tutorials In Hindi #9
+_____________________________________________________________________________________________________________________________________________________
