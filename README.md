@@ -22,4 +22,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/dZsv7xt5pT0?si=M_O34uO4JLY5xxSL) | Creating Homepage of our TextUtils Website | Python Django Tutorials In Hindi #9
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/lkhJ7OCOCIc?si=dgvSHwlQvajg6FW5) | Django Site: Coding The Backend | Python Django Tutorials In Hindi #10
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/lcpqpxVowU0?si=SZHHtBKEJXLwZbU_) | Django Exercise 1 Solution + Shoutouts | Python Django Tutorials In Hindi #11
 
