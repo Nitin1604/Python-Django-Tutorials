@@ -26,4 +26,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/lcpqpxVowU0?si=SZHHtBKEJXLwZbU_) | Django Exercise 1 Solution + Shoutouts | Python Django Tutorials In Hindi #11
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/eTtRhQPZEc0?si=4_gs6FhqJ1UYgZ99) | Adding More Features To TextUtils Website | Python Django Tutorials In Hindi #12
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/aMeIXqcJoBo?si=BHl0VnYsrscOLPvN) | Django Exercise 2: Revamping TextUtils | Python Django Tutorials In Hindi #13
 
