@@ -24,4 +24,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/lkhJ7OCOCIc?si=dgvSHwlQvajg6FW5) | Django Site: Coding The Backend | Python Django Tutorials In Hindi #10
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/lcpqpxVowU0?si=SZHHtBKEJXLwZbU_) | Django Exercise 1 Solution + Shoutouts | Python Django Tutorials In Hindi #11
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/eTtRhQPZEc0?si=4_gs6FhqJ1UYgZ99) | Adding More Features To TextUtils Website | Python Django Tutorials In Hindi #12
 
