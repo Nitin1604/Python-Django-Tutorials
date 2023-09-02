@@ -30,4 +30,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/aMeIXqcJoBo?si=BHl0VnYsrscOLPvN) | Django Exercise 2: Revamping TextUtils | Python Django Tutorials In Hindi #13
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Jksh4plnL5k?si=MkXCZ5AJ2mIRuMmJ) | Adding Boostrap To Our Django Website | Python Django Tutorials In Hindi #14
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/PlFQ6Mt9NjY?si=s8ZIMqoXAJMflBA-) | Fixing Bugs In Our TextUtils Website | Python Django Tutorials In Hindi #15
 
