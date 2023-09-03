@@ -32,4 +32,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/Jksh4plnL5k?si=MkXCZ5AJ2mIRuMmJ) | Adding Boostrap To Our Django Website | Python Django Tutorials In Hindi #14
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/PlFQ6Mt9NjY?si=s8ZIMqoXAJMflBA-) | Fixing Bugs In Our TextUtils Website | Python Django Tutorials In Hindi #15
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/6rSlXjyjmRA?si=wyC0Q3njCu4T9eGS) | Django CSRF Tokens & Post Request | Python Django Tutorials In Hindi #16
 
