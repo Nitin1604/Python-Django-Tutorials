@@ -38,4 +38,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/9ECzWeVuDH0?si=b0otnmxzCylpJ7w-) | Exercise 2 Solution + Shoutouts | Python Django Tutorials In Hindi #17
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/N3ngIWEweZs?si=c-wGgk_yFz9uFw0B) | Wrapping Up TextUtils Website | Python Django Tutorials In Hindi #18
+_____________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/KDgvYTopzY0?si=tHF9U1fefTrWNYVe) | Our Next Django Website | Python Django Tutorials In Hindi #19
 
