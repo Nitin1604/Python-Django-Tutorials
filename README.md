@@ -40,6 +40,8 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/N3ngIWEweZs?si=c-wGgk_yFz9uFw0B) | Wrapping Up TextUtils Website | Python Django Tutorials In Hindi #18
 _____________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/KDgvYTopzY0?si=tHF9U1fefTrWNYVe) | Our Next Django Website | Python Django Tutorials In Hindi #19
-_____________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________
 YouTube Link: (https://youtu.be/GTl0QYaFG0Y?si=OcAD-sQAEIwnTmxp)  | E Commerce Website In Django (Project Setup) | Python Django Tutorials In Hindi #20
+_________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/L7D50lzcG5s?si=wfLzCLcyTQib5668) | E-commerce Website: Creating Apps (Apps Vs Projects) | Python Django Tutorials In Hindi #21
 
