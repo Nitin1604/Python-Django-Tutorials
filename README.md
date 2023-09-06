@@ -44,4 +44,5 @@ ________________________________________________________________________________
 YouTube Link: (https://youtu.be/GTl0QYaFG0Y?si=OcAD-sQAEIwnTmxp)  | E Commerce Website In Django (Project Setup) | Python Django Tutorials In Hindi #20
 _________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/L7D50lzcG5s?si=wfLzCLcyTQib5668) | E-commerce Website: Creating Apps (Apps Vs Projects) | Python Django Tutorials In Hindi #21
-
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/F0twYcLgiIc?si=Yu5b8cjdWGHHcfpK) | E-commerce Website: Adding Bootstrap, Templates & Static | Python Django Tutorials In Hindi #22
