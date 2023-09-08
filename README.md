@@ -48,3 +48,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/F0twYcLgiIc?si=Yu5b8cjdWGHHcfpK) | E-commerce Website: Adding Bootstrap, Templates & Static | Python Django Tutorials In Hindi #22
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/oTSqFoe4vDY?si=B5fGf7tWv722sSUT) | E-commerce Website: Project Layout | Python Django Tutorials In Hindi #23
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/S3PA3NL6tWI?si=YdoK2-RE76vO65I3) | Models In Our Django E commerce Website | Python Django Tutorials In Hindi #24
