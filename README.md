@@ -50,3 +50,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/oTSqFoe4vDY?si=B5fGf7tWv722sSUT) | E-commerce Website: Project Layout | Python Django Tutorials In Hindi #23
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/S3PA3NL6tWI?si=YdoK2-RE76vO65I3) | Models In Our Django E commerce Website | Python Django Tutorials In Hindi #24
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/E_yjSB0V_Rw?si=62ILQFicanYEXY81) | Django Admin & Adding Data To The Database | Python Django Tutorials In Hindi #25
