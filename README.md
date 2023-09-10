@@ -52,3 +52,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/S3PA3NL6tWI?si=YdoK2-RE76vO65I3) | Models In Our Django E commerce Website | Python Django Tutorials In Hindi #24
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/E_yjSB0V_Rw?si=62ILQFicanYEXY81) | Django Admin & Adding Data To The Database | Python Django Tutorials In Hindi #25
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/NVoh0IZN4mQ?si=pDCA3gxLSTvHS10s) | Designing The Homepage Of Our E-Commerce Website | Python Django Tutorials In Hindi #26
