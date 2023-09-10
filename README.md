@@ -54,3 +54,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/E_yjSB0V_Rw?si=62ILQFicanYEXY81) | Django Admin & Adding Data To The Database | Python Django Tutorials In Hindi #25
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/NVoh0IZN4mQ?si=pDCA3gxLSTvHS10s) | Designing The Homepage Of Our E-Commerce Website | Python Django Tutorials In Hindi #26
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/qNYIvrQkpuI?si=pVcDPMVyfgZAyoNQ) | Adding Images & Changing Models In Django | Python Django Tutorials In Hindi #27
