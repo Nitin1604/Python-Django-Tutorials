@@ -60,3 +60,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/66u89Q9Sz_o?si=IvNwMRIQHfE7JGvg) | Adding Media Directory In Django | Python Django Tutorials In Hindi #28
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/UwvsQmuSG8U?si=A1HpZDysTiJ-f9d5) | Django Exercise 3: List the Products | Python Django Tutorials In Hindi #29
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/WECAdQ_XEOo?si=Cp85lpQlCLwFrXbE) | Fetching Products Using Python manage.py shell | Python Django Tutorials In Hindi #30
