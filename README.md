@@ -57,4 +57,6 @@ YouTube Link : (https://youtu.be/NVoh0IZN4mQ?si=pDCA3gxLSTvHS10s) | Designing Th
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/qNYIvrQkpuI?si=pVcDPMVyfgZAyoNQ) | Adding Images & Changing Models In Django | Python Django Tutorials In Hindi #27
 ____________________________________________________________________________________________________________________________________________________________________
-YouTube Lin : (https://youtu.be/66u89Q9Sz_o?si=IvNwMRIQHfE7JGvg) | Adding Media Directory In Django | Python Django Tutorials In Hindi #28
+YouTube Link : (https://youtu.be/66u89Q9Sz_o?si=IvNwMRIQHfE7JGvg) | Adding Media Directory In Django | Python Django Tutorials In Hindi #28
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/UwvsQmuSG8U?si=A1HpZDysTiJ-f9d5) | Django Exercise 3: List the Products | Python Django Tutorials In Hindi #29
