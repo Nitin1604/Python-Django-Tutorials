@@ -56,3 +56,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/NVoh0IZN4mQ?si=pDCA3gxLSTvHS10s) | Designing The Homepage Of Our E-Commerce Website | Python Django Tutorials In Hindi #26
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/qNYIvrQkpuI?si=pVcDPMVyfgZAyoNQ) | Adding Images & Changing Models In Django | Python Django Tutorials In Hindi #27
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Lin : (https://youtu.be/66u89Q9Sz_o?si=IvNwMRIQHfE7JGvg) | Adding Media Directory In Django | Python Django Tutorials In Hindi #28
