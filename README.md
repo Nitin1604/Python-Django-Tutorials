@@ -64,3 +64,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/WECAdQ_XEOo?si=Cp85lpQlCLwFrXbE) | Fetching Products Using Python manage.py shell | Python Django Tutorials In Hindi #30
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/R_3ReW0xLBw?si=XENF-ymU9SHgaad9) | Template Inheritance In Django | Python Django Tutorials In Hindi #31
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/--L_SFvUxGs?si=3Qyxcp93KnbMhxNT) | Logic For Showing Products On Homepage | Python Django Tutorials In Hindi #32
