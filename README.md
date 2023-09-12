@@ -66,3 +66,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/R_3ReW0xLBw?si=XENF-ymU9SHgaad9) | Template Inheritance In Django | Python Django Tutorials In Hindi #31
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/--L_SFvUxGs?si=3Qyxcp93KnbMhxNT) | Logic For Showing Products On Homepage | Python Django Tutorials In Hindi #32
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/my_i3IuAtao?si=1vr4gbGNqzWqO0KH) | Showing Products On The Homepage | Python Django Tutorials In Hindi #33
