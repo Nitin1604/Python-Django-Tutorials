@@ -76,3 +76,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/3HbVQxwT29w?si=CPtL304LvminmzYy) | Creating an Online Shopping Cart Using JavaScript | Python Django Tutorials In Hindi #36
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Qzn77i6qhVE?si=VBo4P8ORfrKo3yIr) | Exercise 3: Solution + Shoutouts | Python Django Tutorials In Hindi #37
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/M-sMIFohu5s?si=yhrz5RhC_dE1hlpJ) | Improving Slider Logic & Adding Cart Items Count | Python Django Tutorials In Hindi #38
