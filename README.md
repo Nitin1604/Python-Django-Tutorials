@@ -74,3 +74,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/6iDW97emfB0?si=FPgJgsqb_utTr883) | Category-Wise Product Display In E Commerce Website | Python Django Tutorials In Hindi #35
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/3HbVQxwT29w?si=CPtL304LvminmzYy) | Creating an Online Shopping Cart Using JavaScript | Python Django Tutorials In Hindi #36
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/Qzn77i6qhVE?si=VBo4P8ORfrKo3yIr) | Exercise 3: Solution + Shoutouts | Python Django Tutorials In Hindi #37
