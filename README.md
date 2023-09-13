@@ -70,3 +70,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/my_i3IuAtao?si=1vr4gbGNqzWqO0KH) | Showing Products On The Homepage | Python Django Tutorials In Hindi #33
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ukcwQVdNnMg?si=o2CSc7oi-tWRymE2) | Showing Multiple Product Slides On Homepage | Python Django Tutorials In Hindi #34 
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/6iDW97emfB0?si=FPgJgsqb_utTr883) | Category-Wise Product Display In E Commerce Website | Python Django Tutorials In Hindi #35
