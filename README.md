@@ -82,3 +82,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/5fCuL3H7VA0?si=-l3AZDRzCVS9dtuE) | Adding Bootstrap Row & Some CSS | Python Django Tutorials In Hindi #39
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/fBIbsrp2dTU?si=OIoeokOwhPc-ZbUl) | Adding Cart PopOver & Other Pages Using Bootstrap | Python Django Tutorials In Hindi #40
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/qy9SlnbErxE?si=ztxu1yVLs3vPHVKo) | E Commerce Website: Creating Product Page | Python Django Tutorials In Hindi #41
