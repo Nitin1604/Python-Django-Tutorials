@@ -80,3 +80,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/M-sMIFohu5s?si=yhrz5RhC_dE1hlpJ) | Improving Slider Logic & Adding Cart Items Count | Python Django Tutorials In Hindi #38
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/5fCuL3H7VA0?si=-l3AZDRzCVS9dtuE) | Adding Bootstrap Row & Some CSS | Python Django Tutorials In Hindi #39
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/fBIbsrp2dTU?si=OIoeokOwhPc-ZbUl) | Adding Cart PopOver & Other Pages Using Bootstrap | Python Django Tutorials In Hindi #40
