@@ -86,3 +86,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/qy9SlnbErxE?si=ztxu1yVLs3vPHVKo) | E Commerce Website: Creating Product Page | Python Django Tutorials In Hindi #41
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/8Q1gBr-3eBk?si=84JoCYyg1w6Abvu7) | E Commerce Website: Creating Contact Page + Database | Python Django Tutorials In Hindi #42
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/lnCGNTDN66w?si=wHhPgTOojeEXTSFw) | Exercise 3: Improving Cart Of Our E commerce Website | Python Django Tutorials In Hindi #43
