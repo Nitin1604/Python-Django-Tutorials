@@ -84,3 +84,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/fBIbsrp2dTU?si=OIoeokOwhPc-ZbUl) | Adding Cart PopOver & Other Pages Using Bootstrap | Python Django Tutorials In Hindi #40
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/qy9SlnbErxE?si=ztxu1yVLs3vPHVKo) | E Commerce Website: Creating Product Page | Python Django Tutorials In Hindi #41
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/8Q1gBr-3eBk?si=84JoCYyg1w6Abvu7) | E Commerce Website: Creating Contact Page + Database | Python Django Tutorials In Hindi #42
