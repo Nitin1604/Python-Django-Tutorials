@@ -96,3 +96,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/BjzCgCL3oPI?si=aWwT85p6XprrRnEK) | Exercise 3: Solutions + Shoutouts | Python Django Tutorials In Hindi #46
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/cgXypi3Z3y4?si=RNKnLeM-ZeL95hY-) | Adding Checkout & ClearCart Buttons | Python Django Tutorials In Hindi #47
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/-jdN0k8RSKA?si=9sRbfzJ0ajZv3Fut) | Creating The Checkout Page | Python Django Tutorials In Hindi #48
