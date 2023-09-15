@@ -90,3 +90,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/lnCGNTDN66w?si=wHhPgTOojeEXTSFw) | Exercise 3: Improving Cart Of Our E commerce Website | Python Django Tutorials In Hindi #43
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/wB2FVCa_lj0?si=Xb0-zSmZYdxCWY0O) | Creating Add and Remove Buttons For Items In Cart | Python Django Tutorials In Hindi #44
+____________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/lsld-8bSGsw?si=lknSt7LFzURWl_zH) | Creating A Cart In Navigation Bar As Popover | Python Django Tutorials In Hindi #45
