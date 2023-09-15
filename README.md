@@ -98,3 +98,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/cgXypi3Z3y4?si=RNKnLeM-ZeL95hY-) | Adding Checkout & ClearCart Buttons | Python Django Tutorials In Hindi #47
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/-jdN0k8RSKA?si=9sRbfzJ0ajZv3Fut) | Creating The Checkout Page | Python Django Tutorials In Hindi #48
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/w_8ggwWfy8Y?si=2Cg5o75DOzY94MWp) | Adding Items On Checkout Page | Python Django Tutorials In Hindi #49
