@@ -94,3 +94,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/lsld-8bSGsw?si=lknSt7LFzURWl_zH) | Creating A Cart In Navigation Bar As Popover | Python Django Tutorials In Hindi #45
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/BjzCgCL3oPI?si=aWwT85p6XprrRnEK) | Exercise 3: Solutions + Shoutouts | Python Django Tutorials In Hindi #46
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/cgXypi3Z3y4?si=RNKnLeM-ZeL95hY-) | Adding Checkout & ClearCart Buttons | Python Django Tutorials In Hindi #47
