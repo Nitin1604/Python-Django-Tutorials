@@ -92,3 +92,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/wB2FVCa_lj0?si=Xb0-zSmZYdxCWY0O) | Creating Add and Remove Buttons For Items In Cart | Python Django Tutorials In Hindi #44
 ____________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/lsld-8bSGsw?si=lknSt7LFzURWl_zH) | Creating A Cart In Navigation Bar As Popover | Python Django Tutorials In Hindi #45
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/BjzCgCL3oPI?si=aWwT85p6XprrRnEK) | Exercise 3: Solutions + Shoutouts | Python Django Tutorials In Hindi #46
