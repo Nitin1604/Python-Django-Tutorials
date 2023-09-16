@@ -104,3 +104,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/ifRa-89yn1Q?si=Yvq60sWbSfU6GWRZ) | Creating Database Entry For Orders | Python Django Tutorials In Hindi #50
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Nv8z_zQVJIk?si=5oMkO53uZCoZiugo) | Creating Order Tracker For Customers | Python Django Tutorials In Hindi #51
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/7B6YpX7c6K8?si=e9VouHHN1pBS4kH0) | Django Exercise 4: Display Prices | Python Django Tutorials In Hindi #52
