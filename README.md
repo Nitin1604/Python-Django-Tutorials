@@ -102,3 +102,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/w_8ggwWfy8Y?si=2Cg5o75DOzY94MWp) | Adding Items On Checkout Page | Python Django Tutorials In Hindi #49
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ifRa-89yn1Q?si=Yvq60sWbSfU6GWRZ) | Creating Database Entry For Orders | Python Django Tutorials In Hindi #50
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/Nv8z_zQVJIk?si=5oMkO53uZCoZiugo) | Creating Order Tracker For Customers | Python Django Tutorials In Hindi #51
