@@ -108,3 +108,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/7B6YpX7c6K8?si=e9VouHHN1pBS4kH0) | Django Exercise 4: Display Prices | Python Django Tutorials In Hindi #52
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/QEyLLCy9DQk?si=zrto9KukbfHKlzej) | E-Commerce Website: Displaying Order Items In Tracker | Python Django Tutorials In Hindi #53
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/J1rSK5nl098?si=x5-IfBNSG99JqKSF) | Django Solution To Exercise 4: Display Prices | Python Django Tutorials In Hindi #54
