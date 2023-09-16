@@ -1,0 +1,25 @@
+# These are the file contents used in Django Project.
+
+(1) pip install django
+  -- To install django use this command
+
+(2) python manage.py runserver
+  -- To start the development server at localhost
+
+(3) python manage.py startapp 'appname'
+  -- To make any app use this command
+
+(4) python manage.py migrate
+  -- migrate executes those SQL commands in the database file. 
+     So after executing migrate all the tables of your installed 
+     apps are created in your database file. You can confirm this 
+     by installing SQLite browser and opening db.
+
+(5) python manage.py makemigrations
+  -- makemigrations basically generates the SQL commands for preinstalled apps 
+     (which can be viewed in installed apps in settings.py) and your newly created 
+     apps' model which you add in installed apps. It does not execute those commands 
+     in your database file.
+
+(6) python manage.py createsuperuser
+  -- To create login on admin page use this command
