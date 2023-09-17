@@ -110,3 +110,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/QEyLLCy9DQk?si=zrto9KukbfHKlzej) | E-Commerce Website: Displaying Order Items In Tracker | Python Django Tutorials In Hindi #53
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/J1rSK5nl098?si=x5-IfBNSG99JqKSF) | Django Solution To Exercise 4: Display Prices | Python Django Tutorials In Hindi #54
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/8sYtQXkyDPA?si=ZtwlPOW4BdTzf-gA) | Merging Blog App Into The Shop UI | Python Django Tutorials In Hindi #55
