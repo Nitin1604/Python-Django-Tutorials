@@ -114,3 +114,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/8sYtQXkyDPA?si=ZtwlPOW4BdTzf-gA) | Merging Blog App Into The Shop UI | Python Django Tutorials In Hindi #55
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/hfGYzkOdUzw?si=cuU6-Y5QxLbO9XPG) | Django Website TextUtils: Pull Requests | Python Django Tutorials In Hindi #56
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/Pa9XfrrHUlo?si=oKbBopJflUxidHtP) | Django Website My Awesome Cart: Pull Requests | Python Django Tutorials In Hindi #57
