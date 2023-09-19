@@ -116,3 +116,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/hfGYzkOdUzw?si=cuU6-Y5QxLbO9XPG) | Django Website TextUtils: Pull Requests | Python Django Tutorials In Hindi #56
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Pa9XfrrHUlo?si=oKbBopJflUxidHtP) | Django Website My Awesome Cart: Pull Requests | Python Django Tutorials In Hindi #57
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/wLVmVK_7MFQ?si=frdu9K9FWFo9wuFo) | My Awesome Cart: Creating The Blog | Python Django Tutorials In Hindi #58
