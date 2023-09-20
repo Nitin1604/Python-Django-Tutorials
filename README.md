@@ -122,3 +122,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZYb2-U9B3oQ?si=obTCqqSGV6-EWYBb) | Creating Models For Blog In Our E-Commerce Website | Python Django Tutorials In Hindi #59
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/buBfLEkVBn0?si=SMJG2A9UOEbIpouv) | Django Exercise 5: BlogPosts | Python Django Tutorials In Hindi #60
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/CAvJgeyOwPY?si=wan-cc-OSQ97H2jJ) | Creating a Django Post Page For Displaying Blog Content | Python Django Tutorials In Hindi #61
