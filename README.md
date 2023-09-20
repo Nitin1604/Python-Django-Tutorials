@@ -130,3 +130,6 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/C5XLXRjkOAs?si=NtfcS4zwtb9O1hgj) | Django Exercise 5: Solution + Shoutouts | Python Django Tutorials In Hindi #63
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/WxckiLuzoVc?si=Bkqgl2EIYHxCLhuG) | Linking Django Blog Posts To Blog Home | Python Django Tutorials In Hindi #64
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/ZG4Wh55aYqY?si=5GFTdEuMBAo1YSpI) | Integrating Facebook Like, Comments & Shares In Django Blog | Python Django Tutorials In Hindi #65
+_______________________________________________________________________________________________________________________________________________________________________
