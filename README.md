@@ -128,3 +128,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/P80gQhWbQc4?si=IWSk68gjPJEDXL4m) | Designing The Blog Home Page | Python Django Tutorials In Hindi #62
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/C5XLXRjkOAs?si=NtfcS4zwtb9O1hgj) | Django Exercise 5: Solution + Shoutouts | Python Django Tutorials In Hindi #63
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/WxckiLuzoVc?si=Bkqgl2EIYHxCLhuG) | Linking Django Blog Posts To Blog Home | Python Django Tutorials In Hindi #64
