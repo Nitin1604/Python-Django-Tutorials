@@ -133,3 +133,4 @@ YouTube Link : (https://youtu.be/WxckiLuzoVc?si=Bkqgl2EIYHxCLhuG) | Linking Djan
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZG4Wh55aYqY?si=5GFTdEuMBAo1YSpI) | Integrating Facebook Like, Comments & Shares In Django Blog | Python Django Tutorials In Hindi #65
 _______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/cdtPcTIuazI?si=Nm9slLCfmkJr10CG) | Integrating Payment Gateway: PayTM, UPI, Cards & NetBanking | Python Django Tutorials In Hindi #66
