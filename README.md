@@ -124,3 +124,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/buBfLEkVBn0?si=SMJG2A9UOEbIpouv) | Django Exercise 5: BlogPosts | Python Django Tutorials In Hindi #60
 ___________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/CAvJgeyOwPY?si=wan-cc-OSQ97H2jJ) | Creating a Django Post Page For Displaying Blog Content | Python Django Tutorials In Hindi #61
+___________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/P80gQhWbQc4?si=IWSk68gjPJEDXL4m) | Designing The Blog Home Page | Python Django Tutorials In Hindi #62
