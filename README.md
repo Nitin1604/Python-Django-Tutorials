@@ -134,3 +134,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZG4Wh55aYqY?si=5GFTdEuMBAo1YSpI) | Integrating Facebook Like, Comments & Shares In Django Blog | Python Django Tutorials In Hindi #65
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/cdtPcTIuazI?si=Nm9slLCfmkJr10CG) | Integrating Payment Gateway: PayTM, UPI, Cards & NetBanking | Python Django Tutorials In Hindi #66
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/pqikLTmaZ-k?si=SkYtdcwA-aW1jSrr) | Creating Product Search Feature In Our E Commerce Website | Python Django Tutorials In Hindi #67 
