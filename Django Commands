@@ -23,3 +23,8 @@ These are the file contents used in Django Project.
 
 (6) python manage.py createsuperuser
   -- To create login on admin page use this command
+
+(7) python manage.py changepassword 'Your username in django admin site'
+ -- This will change the password for the admin site and old password will be deleted
+    then you will be able to set this new password to the admin site after that you
+    will be successfully logged in.
