@@ -138,3 +138,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/pqikLTmaZ-k?si=SkYtdcwA-aW1jSrr) | Creating Product Search Feature In Our E Commerce Website | Python Django Tutorials In Hindi #67 
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link :(https://youtu.be/uZ39tdVZNww?si=Lso_vBecqrmO4YK7) | Fixing A Bug In Django E Commerce Website Tracker | Python Django Tutorials In Hindi #68
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/osj8mxEcwRI?si=Hcpix9sW3XVuX9wq) | Reset Forgotten Admin Password In Django| Python Django Tutorials In Hindi #69
