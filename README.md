@@ -142,3 +142,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/osj8mxEcwRI?si=Hcpix9sW3XVuX9wq) | Reset Forgotten Admin Password In Django| Python Django Tutorials In Hindi #69
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/XNS9BgQ0dGI?si=tbz6ge9s33xvmxNm) | Hosting Django Website On Ubuntu VPS | Python Django Tutorials In Hindi #70
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/FdlZNRgwNrY?si=zs4CenrFvs_9lB9I) | Creating A New Django Blog (Setup + Introduction) | Python Django Tutorials In Hindi #71
