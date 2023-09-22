@@ -140,3 +140,5 @@ ________________________________________________________________________________
 YouTube Link :(https://youtu.be/uZ39tdVZNww?si=Lso_vBecqrmO4YK7) | Fixing A Bug In Django E Commerce Website Tracker | Python Django Tutorials In Hindi #68
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/osj8mxEcwRI?si=Hcpix9sW3XVuX9wq) | Reset Forgotten Admin Password In Django| Python Django Tutorials In Hindi #69
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/XNS9BgQ0dGI?si=tbz6ge9s33xvmxNm) | Hosting Django Website On Ubuntu VPS | Python Django Tutorials In Hindi #70
