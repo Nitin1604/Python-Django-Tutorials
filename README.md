@@ -144,3 +144,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/XNS9BgQ0dGI?si=tbz6ge9s33xvmxNm) | Hosting Django Website On Ubuntu VPS | Python Django Tutorials In Hindi #70
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/FdlZNRgwNrY?si=zs4CenrFvs_9lB9I) | Creating A New Django Blog (Setup + Introduction) | Python Django Tutorials In Hindi #71
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/nyK6YNQCrA0?si=FXMf39au2OFWeHCS) | Django Blog: Project Setup & URLConfs | Python Django Tutorials In Hindi #72
