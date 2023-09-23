@@ -146,3 +146,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/FdlZNRgwNrY?si=zs4CenrFvs_9lB9I) | Creating A New Django Blog (Setup + Introduction) | Python Django Tutorials In Hindi #71
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/nyK6YNQCrA0?si=FXMf39au2OFWeHCS) | Django Blog: Project Setup & URLConfs | Python Django Tutorials In Hindi #72
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/k5pHGbFfiec?si=cwioxPMiPjAiJSb5) | Django Blog: Creating Django Apps & Properly Managing Them | Python Django Tutorials In Hindi #73
