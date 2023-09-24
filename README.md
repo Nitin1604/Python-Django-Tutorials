@@ -150,3 +150,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/k5pHGbFfiec?si=cwioxPMiPjAiJSb5) | Django Blog: Creating Django Apps & Properly Managing Them | Python Django Tutorials In Hindi #73
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/z9ntgtuB1DE?si=9mLG79XvbiiBFye-) | Django Blog: Adding HTML Templates | Python Django Tutorials In Hindi #74
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/AdWMcmfjT0M?si=CG-WF0f9ii5Dhaiu) | Installing Django 3 for our Django Blog | Python Django Tutorials In Hindi #75
