@@ -148,3 +148,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/nyK6YNQCrA0?si=FXMf39au2OFWeHCS) | Django Blog: Project Setup & URLConfs | Python Django Tutorials In Hindi #72
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/k5pHGbFfiec?si=cwioxPMiPjAiJSb5) | Django Blog: Creating Django Apps & Properly Managing Them | Python Django Tutorials In Hindi #73
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/z9ntgtuB1DE?si=9mLG79XvbiiBFye-) | Django Blog: Adding HTML Templates | Python Django Tutorials In Hindi #74
