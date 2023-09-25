@@ -152,3 +152,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/z9ntgtuB1DE?si=9mLG79XvbiiBFye-) | Django Blog: Adding HTML Templates | Python Django Tutorials In Hindi #74
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/AdWMcmfjT0M?si=CG-WF0f9ii5Dhaiu) | Installing Django 3 for our Django Blog | Python Django Tutorials In Hindi #75
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/7NXo2Bm1ywE?si=TcdcaGf_Ecb7euFv) | Django 3 Blog: Creating Migrations & Superusers | Python Django Tutorials In Hindi #76
