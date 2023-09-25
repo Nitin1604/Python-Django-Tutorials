@@ -158,3 +158,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/8nTKFStBNNc?si=vMHhTTTa6A-mPpEg) | Django 3 Blog: Creating "Contact Us" Model | Python Django Tutorials In Hindi #77
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/VsYoxW-J_Wk?si=wo--3I5Ou9rX0qcg) | Django 3 Blog: Handling Post Request in a Django View | Python Django Tutorials In Hindi #78
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/PIW_H966oS0?si=LTXdQKshXk9DqKbf) | Django Mesasges Framework: Showing Messages in Django blog | Python Django Tutorials In Hindi #79
