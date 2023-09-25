@@ -162,3 +162,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/PIW_H966oS0?si=LTXdQKshXk9DqKbf) | Django Mesasges Framework: Showing Messages in Django blog | Python Django Tutorials In Hindi #79
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/WGx1G5B5Qto?si=puNVVv8mrerjv8sD) | Django 3 Blog: Designing Blog Page & Displaying Blog Posts | Python Django Tutorials In Hindi #80
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/XP6AavKQD3I?si=JKRW15g3gZSiUroL) | Django 3 Blog: Creating Blog Model to Store Blog Posts | Python Django Tutorials In Hindi #81
