@@ -156,3 +156,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/7NXo2Bm1ywE?si=TcdcaGf_Ecb7euFv) | Django 3 Blog: Creating Migrations & Superusers | Python Django Tutorials In Hindi #76
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/8nTKFStBNNc?si=vMHhTTTa6A-mPpEg) | Django 3 Blog: Creating "Contact Us" Model | Python Django Tutorials In Hindi #77
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/VsYoxW-J_Wk?si=wo--3I5Ou9rX0qcg) | Django 3 Blog: Handling Post Request in a Django View | Python Django Tutorials In Hindi #78
