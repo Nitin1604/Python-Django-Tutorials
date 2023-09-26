@@ -164,3 +164,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/WGx1G5B5Qto?si=puNVVv8mrerjv8sD) | Django 3 Blog: Designing Blog Page & Displaying Blog Posts | Python Django Tutorials In Hindi #80
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/XP6AavKQD3I?si=JKRW15g3gZSiUroL) | Django 3 Blog: Creating Blog Model to Store Blog Posts | Python Django Tutorials In Hindi #81
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/c83KaEH5Zhs?si=VAYOzOkRNaxk5sSM) | Django 3 Blog: Designing the BlogPost Page | Python Django Tutorials In Hindi #82
