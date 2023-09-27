@@ -168,3 +168,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/c83KaEH5Zhs?si=VAYOzOkRNaxk5sSM) | Django 3 Blog: Designing the BlogPost Page | Python Django Tutorials In Hindi #82
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/HlWKerBOBK4?si=4VaA77AS-FyCKpPd) | Django 3 Blog: Creating Search Functionality | Python Django Tutorials In Hindi #83
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/AZuA16bd6kE?si=pdpDiCRch1pPZUDA) | Django 3 Blog: Improving Search Functionality | Python Django Tutorials In Hindi #84
