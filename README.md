@@ -176,3 +176,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/TaE_fAqeeUE?si=eS5oX0aRbDtuD6JD) | Django 3 Blog: Creating Users in Django | Python Django Tutorials In Hindi #86
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/3FUZ00n4zcQ?si=hTxgISeD12SmY1cg) | Django 3 Blog: Validating SignUp Form | Python Django Tutorials In Hindi #87
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/d5tGOXclK5Y?si=4-AubQn2l7G0V_-J) | Django 3 Blog: Login & Logout Endpoints | Python Django Tutorials In Hindi #88
