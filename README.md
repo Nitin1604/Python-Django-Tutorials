@@ -170,3 +170,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/HlWKerBOBK4?si=4VaA77AS-FyCKpPd) | Django 3 Blog: Creating Search Functionality | Python Django Tutorials In Hindi #83
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/AZuA16bd6kE?si=pdpDiCRch1pPZUDA) | Django 3 Blog: Improving Search Functionality | Python Django Tutorials In Hindi #84
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/8DF1zJA7cfc?si=WGQl-gxiKSad2Fd7) | Django 3 Blog: Authentication & Authorization Tutorial | Python Django Tutorials In Hindi #85
