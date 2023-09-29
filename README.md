@@ -201,4 +201,4 @@ YouTube Link : (https://youtu.be/cYUO3E9Rrq0?si=k1o_o4eCeAa7BCoY) | Django 3 Blo
 _________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/vRwqRfvoyR8?si=W_FYCNVyiINctTCM) | Using TinyMCE Editor For Editing Blog Post Content | Python Django Tutorials In Hindi #99
 _________________________________________________________________________________________________________________________________________________________________________
-YouTube Link : (https://youtu.be/vRwqRfvoyR8?si=W_FYCNVyiINctTCM) | Using TinyMCE Editor For Editing Blog Post Content | Python Django Tutorials In Hindi #99
+YouTube Link : (https://youtu.be/Wrbe2ed-JBw?si=STiYajc40cEw_yK1) | Integrating TinyMCE Editor in Django Admin | Python Django Tutorials In Hindi #100
