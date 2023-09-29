@@ -198,3 +198,7 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/-cE6sE-sE0M?si=aesQBsi46gQzuZ8H) | Django 3 Blog: Designing Replies Below Comments & Other Fixes | Python Django Tutorials In Hindi #97
 _________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/cYUO3E9Rrq0?si=k1o_o4eCeAa7BCoY) | Django 3 Blog: Rendering HTML inside the Blog Post | Python Django Tutorials In Hindi #98
+_________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/vRwqRfvoyR8?si=W_FYCNVyiINctTCM) | Using TinyMCE Editor For Editing Blog Post Content | Python Django Tutorials In Hindi #99
+_________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/vRwqRfvoyR8?si=W_FYCNVyiINctTCM) | Using TinyMCE Editor For Editing Blog Post Content | Python Django Tutorials In Hindi #99
