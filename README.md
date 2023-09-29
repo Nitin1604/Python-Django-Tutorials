@@ -180,3 +180,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/d5tGOXclK5Y?si=4-AubQn2l7G0V_-J) | Django 3 Blog: Login & Logout Endpoints | Python Django Tutorials In Hindi #88
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Kc6QxwddGSo?si=41og4W2i4Y4Pz-dv) | Django 3 Blog: Creating Django template for Login & Logout | Python Django Tutorials In Hindi #89
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/9Elb4u2PrUg?si=HiCgYV4vQLs74k0K) | Django 3 Blog: Creating Blog Comments in Django | Python Django Tutorials In Hindi #90
