@@ -202,3 +202,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/vRwqRfvoyR8?si=W_FYCNVyiINctTCM) | Using TinyMCE Editor For Editing Blog Post Content | Python Django Tutorials In Hindi #99
 _________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Wrbe2ed-JBw?si=STiYajc40cEw_yK1) | Integrating TinyMCE Editor in Django Admin | Python Django Tutorials In Hindi #100
+_________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/q3m6H9kHnvk?si=oq2IYi648AIi89tp) | Adding "Post Views" (View Counter) to iCoder Django 3 Blog| Python Django Tutorials In Hindi #101
