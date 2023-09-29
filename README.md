@@ -186,3 +186,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/4Ntgr1xNmqM?si=SNytiEGVTpnfF9Sm) | Django 3 Blog: Creating Comment Model, Template & Migrations | Python Django Tutorials In Hindi #91
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/bku7S72SceE?si=VIGS4uUQZUhntTvM) | Django 3 Blog: Creating APIs for Posting Comments on Blog | Python Django Tutorials In Hindi #92
+_______________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/kikMub_0GWg?si=OH_hjGYynAWfjhyh) | Django 3 Blog: Rendering Blog Comments on Our Template | Python Django Tutorials In Hindi #93
