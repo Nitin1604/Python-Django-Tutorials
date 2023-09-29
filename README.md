@@ -192,7 +192,9 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/lTCaTSFkHpM?si=2Zlno7LbAVbSBwOA) | Django 3 Blog: Restricting Comment Posting to Logged in User | Python Django Tutorials In Hindi #94
 _______________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/B0tn8THAFao?si=RYG1-wL5cbkV5u7G) | Django 3 Blog: Adding Replies to Comments on Our Blog | Python Django Tutorials In Hindi #95
-_______________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/WRMuik_Vm7I?si=4RyTUHadtRdkV6nm) | Django 3 Blog: Displaying Replies Below Corresponding Comment | Python Django Tutorials In Hindi #96
-_______________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/-cE6sE-sE0M?si=aesQBsi46gQzuZ8H) | Django 3 Blog: Designing Replies Below Comments & Other Fixes | Python Django Tutorials In Hindi #97
+_________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/cYUO3E9Rrq0?si=k1o_o4eCeAa7BCoY) | Django 3 Blog: Rendering HTML inside the Blog Post | Python Django Tutorials In Hindi #98
